@@ -1,3 +1,6 @@
+#This is a program that simulates how many times it takes before you get a royal flush, and yes it takes a while.
+
+
 def card_simulation():
     import random
     suits = ['Spades', 'Hearts', 'Clubs', 'Diamonds']
